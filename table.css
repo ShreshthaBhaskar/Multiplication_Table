@@ -1,0 +1,49 @@
+body{
+    background-color: plum;
+}
+.container{
+        text-align: center;
+        background-color: white;
+        padding: 20px;
+        margin: auto;
+        width:60% ;
+ }
+ #head{
+    font-size: 40px;
+    font-weight: bold;
+    color: palevioletred;
+}
+.inputbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+#f2{
+    background-color: palevioletred;
+    color: white;
+    margin-top: 20px;
+}
+.answer{
+    margin-top: 20px;
+    height: 40%;
+    text-align: center;
+    background-color: aqua;
+    font-weight: bold;
+    border: 10%;
+    width: 15%;
+    padding: 10px;
+    margin: auto;
+
+}
+input{
+    width: 10%;
+    text-align: center;
+}
+/* #answer{
+    width: 30%;
+    text-align: center;
+} */
+ .element{
+    background-color: brown;
+ }
